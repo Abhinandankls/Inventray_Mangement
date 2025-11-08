@@ -1,0 +1,5 @@
+{
+  "name": "Inventory Management System",
+  "description": "A web-based inventory management system for tracking parts, managing stock, and logging operator actions, based on an original Python script. Features separate interfaces for operators and supervisors.",
+  "requestFramePermissions": []
+}
